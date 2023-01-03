@@ -722,17 +722,19 @@
 
     .hero-text h2 {
       font-size: 8vw;
+      margin-bottom: 25px !important;
     }
   }
 
   @media only screen and (max-width: 414px) {
     .hero-text h1 {
-      font-size: 16vw !important;
+      font-size: 19vw !important;
       line-height: 127% !important;
     }
 
     .hero-text h2 {
-      font-size: 6vw !important;
+      font-size: 9vw !important;
+      margin-bottom: 25px !important;
     }
 
     .about-us-description {
