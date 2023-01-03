@@ -291,15 +291,18 @@
   }
 
   .content h2 {
+    left: 55px !important;
     display: block;
     font-size: 2rem;
     color: #111;
     font-weight: 500;
     line-height: 2rem;
     letter-spacing: 1px;
+    position: relative;
   }
 
   .content span {
+    left: 55px !important;
     color: #555;
     font-size: 1.4rem;
     font-weight: 300;
@@ -309,7 +312,7 @@
   .content i {
     position: relative;
     display: inline;
-    left: auto;
+    left: -100px;
     right: auto;
     bottom: -30px;
     font-size: 31px;
