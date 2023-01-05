@@ -756,6 +756,11 @@
     margin-top: -150px !important; top: -150px !important;
   }
 
+  .footer-connect {
+    font-size: 21px;
+    margin-bottom: -12px;
+  }
+
   .copyright-sections {
     font-size: 14px;
     color: white;
@@ -1036,6 +1041,10 @@
 
     .social-media-connect {
       font-size: 21px !important;
+    }
+
+    .footer-connect {
+      font-size: 14px;
     }
   }
 
