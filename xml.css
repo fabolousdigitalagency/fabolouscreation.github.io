@@ -1,7 +1,7 @@
 
 fabolous {
 	background-color: #000;
-/*	color: white;*/
+	color: white;
 }
 
 
@@ -24,4 +24,9 @@ loc {
 
 lastmod {
 	font-style: italic;
+}
+
+homepages {
+	margin: 15px;
+	font-size: 21px;
 }
