@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="xml.css"?>
+<?xml-stylesheet type="text/css" href="./xml.css"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -7,10 +7,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<url>
-  <loc>http://fabolousdigitalagency.com/</loc>
+
+<fabolous>
+<title>Fabolous Digital Agency | Site Map</title>
+
+<url xmlns:xlink="http://fabolousdigitalagency.com">
+  <loc xlink:type="simple" xlink:href="http://fabolousdigitalagency.com">http://fabolousdigitalagency.com/</loc>
   <lastmod>2023-01-03T12:22:25+00:00</lastmod>
 </url>
+
+</fabolous>
 
 
 </urlset>
