@@ -1,16 +1,27 @@
-LOC {
-	font-size: 100px;
-	display: grid;
+
+fabolous {
+	background-color: #000;
+/*	color: white;*/
 }
 
-LASTMOD {
-	display: none;
+
+title {
+	font-size: 40px;
+	text-align: center !important;
+	display: block;
 }
 
-INSTRUMENT {
+
+url {
 	display: grid;
+	margin: 15px;
 }
 
-URL {
-	display: grid;
+
+loc {
+	font-size: 31px;
+}
+
+lastmod {
+	font-style: italic;
 }
