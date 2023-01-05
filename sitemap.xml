@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="./xml.css"?>
+<fabolous>
+<title>Fabolous Digital Agency | Site Map</title>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<fabolous>
-<title>Fabolous Digital Agency | Site Map</title>
-
-<url xmlns:xlink="http://fabolousdigitalagency.com">
-  <loc xlink:type="simple" xlink:href="http://fabolousdigitalagency.com">http://fabolousdigitalagency.com/</loc>
+<url>
+  <loc>http://fabolousdigitalagency.com/</loc>
   <lastmod>2023-01-03T12:22:25+00:00</lastmod>
 </url>
+</urlset>
+
+<homepages xmlns:xlink="http://fabolousdigitalagency.com">
+  <homepage xlink:type="simple" xlink:href="http://fabolousdigitalagency.com">Home</homepage>
+</homepages>
 
 </fabolous>
-
-
-</urlset>
